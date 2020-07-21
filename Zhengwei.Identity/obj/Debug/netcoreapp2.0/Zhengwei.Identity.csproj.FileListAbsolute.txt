@@ -1,0 +1,14 @@
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Identity\bin\Debug\netcoreapp2.0\Zhengwei.Identity.deps.json
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Identity\bin\Debug\netcoreapp2.0\Zhengwei.Identity.runtimeconfig.json
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Identity\bin\Debug\netcoreapp2.0\Zhengwei.Identity.runtimeconfig.dev.json
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Identity\bin\Debug\netcoreapp2.0\Zhengwei.Identity.dll
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Identity\obj\Debug\netcoreapp2.0\Zhengwei.Identity.csprojAssemblyReference.cache
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Identity\obj\Debug\netcoreapp2.0\Zhengwei.Identity.csproj.CoreCompileInputs.cache
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Identity\obj\Debug\netcoreapp2.0\Zhengwei.Identity.AssemblyInfoInputs.cache
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Identity\obj\Debug\netcoreapp2.0\Zhengwei.Identity.AssemblyInfo.cs
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Identity\bin\Debug\netcoreapp2.0\Zhengwei.Identity.pdb
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Identity\obj\Debug\netcoreapp2.0\Zhengwei.Identity.dll
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Identity\obj\Debug\netcoreapp2.0\Zhengwei.Identity.pdb
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Identity\bin\Debug\netcoreapp2.0\Resilience.dll
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Identity\bin\Debug\netcoreapp2.0\Resilience.pdb
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Identity\obj\Debug\netcoreapp2.0\Zhengwei.Identity.csproj.CopyComplete

@@ -1,0 +1,9 @@
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Project.Domain\bin\Debug\netcoreapp2.1\Zhengwei.Project.Domain.deps.json
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Project.Domain\bin\Debug\netcoreapp2.1\Zhengwei.Project.Domain.dll
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Project.Domain\obj\Debug\netcoreapp2.1\Zhengwei.Project.Domain.csprojAssemblyReference.cache
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Project.Domain\obj\Debug\netcoreapp2.1\Zhengwei.Project.Domain.csproj.CoreCompileInputs.cache
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Project.Domain\obj\Debug\netcoreapp2.1\Zhengwei.Project.Domain.AssemblyInfoInputs.cache
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Project.Domain\obj\Debug\netcoreapp2.1\Zhengwei.Project.Domain.AssemblyInfo.cs
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Project.Domain\bin\Debug\netcoreapp2.1\Zhengwei.Project.Domain.pdb
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Project.Domain\obj\Debug\netcoreapp2.1\Zhengwei.Project.Domain.dll
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Project.Domain\obj\Debug\netcoreapp2.1\Zhengwei.Project.Domain.pdb

@@ -1,0 +1,4 @@
+F:\netcore\Zhengwei.Use.Api\Contact\obj\Debug\netcoreapp2.0\Zhengwei.Contact.csprojAssemblyReference.cache
+F:\netcore\Zhengwei.Use.Api\Contact\obj\Debug\netcoreapp2.0\Zhengwei.Contact.csproj.CoreCompileInputs.cache
+F:\netcore\Zhengwei.Use.Api\Contact\obj\Debug\netcoreapp2.0\Zhengwei.Contact.AssemblyInfoInputs.cache
+F:\netcore\Zhengwei.Use.Api\Contact\obj\Debug\netcoreapp2.0\Zhengwei.Contact.AssemblyInfo.cs

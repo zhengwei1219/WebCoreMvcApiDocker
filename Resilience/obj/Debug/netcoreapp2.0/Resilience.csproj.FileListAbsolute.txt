@@ -1,0 +1,9 @@
+F:\netcore\Zhengwei.Use.Api\Resilience\bin\Debug\netcoreapp2.0\Resilience.deps.json
+F:\netcore\Zhengwei.Use.Api\Resilience\bin\Debug\netcoreapp2.0\Resilience.dll
+F:\netcore\Zhengwei.Use.Api\Resilience\bin\Debug\netcoreapp2.0\Resilience.pdb
+F:\netcore\Zhengwei.Use.Api\Resilience\obj\Debug\netcoreapp2.0\Resilience.csprojAssemblyReference.cache
+F:\netcore\Zhengwei.Use.Api\Resilience\obj\Debug\netcoreapp2.0\Resilience.csproj.CoreCompileInputs.cache
+F:\netcore\Zhengwei.Use.Api\Resilience\obj\Debug\netcoreapp2.0\Resilience.AssemblyInfoInputs.cache
+F:\netcore\Zhengwei.Use.Api\Resilience\obj\Debug\netcoreapp2.0\Resilience.AssemblyInfo.cs
+F:\netcore\Zhengwei.Use.Api\Resilience\obj\Debug\netcoreapp2.0\Resilience.dll
+F:\netcore\Zhengwei.Use.Api\Resilience\obj\Debug\netcoreapp2.0\Resilience.pdb

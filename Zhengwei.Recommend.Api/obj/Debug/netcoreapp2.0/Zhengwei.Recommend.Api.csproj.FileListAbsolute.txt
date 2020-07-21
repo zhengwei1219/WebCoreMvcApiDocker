@@ -1,0 +1,14 @@
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Recommend.Api\bin\Debug\netcoreapp2.0\Zhengwei.Recommend.Api.deps.json
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Recommend.Api\bin\Debug\netcoreapp2.0\Zhengwei.Recommend.Api.runtimeconfig.json
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Recommend.Api\bin\Debug\netcoreapp2.0\Zhengwei.Recommend.Api.runtimeconfig.dev.json
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Recommend.Api\bin\Debug\netcoreapp2.0\Zhengwei.Recommend.Api.dll
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Recommend.Api\obj\Debug\netcoreapp2.0\Zhengwei.Recommend.Api.csproj.CoreCompileInputs.cache
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Recommend.Api\obj\Debug\netcoreapp2.0\Zhengwei.Recommend.Api.AssemblyInfoInputs.cache
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Recommend.Api\obj\Debug\netcoreapp2.0\Zhengwei.Recommend.Api.AssemblyInfo.cs
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Recommend.Api\bin\Debug\netcoreapp2.0\Zhengwei.Recommend.Api.pdb
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Recommend.Api\obj\Debug\netcoreapp2.0\Zhengwei.Recommend.Api.dll
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Recommend.Api\obj\Debug\netcoreapp2.0\Zhengwei.Recommend.Api.pdb
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Recommend.Api\obj\Debug\netcoreapp2.0\Zhengwei.Recommend.Api.csprojAssemblyReference.cache
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Recommend.Api\bin\Debug\netcoreapp2.0\Resilience.dll
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Recommend.Api\bin\Debug\netcoreapp2.0\Resilience.pdb
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Recommend.Api\obj\Debug\netcoreapp2.0\Zhengwei.Recommend.Api.csproj.CopyComplete

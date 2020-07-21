@@ -1,0 +1,11 @@
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Use.Api\obj\Debug\netcoreapp2.0\Zhengwei.Use.Api.csproj.CoreCompileInputs.cache
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Use.Api\obj\Debug\netcoreapp2.0\Zhengwei.Use.Api.AssemblyInfoInputs.cache
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Use.Api\obj\Debug\netcoreapp2.0\Zhengwei.Use.Api.AssemblyInfo.cs
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Use.Api\bin\Debug\netcoreapp2.0\Zhengwei.Use.Api.deps.json
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Use.Api\bin\Debug\netcoreapp2.0\Zhengwei.Use.Api.runtimeconfig.json
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Use.Api\bin\Debug\netcoreapp2.0\Zhengwei.Use.Api.runtimeconfig.dev.json
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Use.Api\bin\Debug\netcoreapp2.0\Zhengwei.Use.Api.dll
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Use.Api\bin\Debug\netcoreapp2.0\Zhengwei.Use.Api.pdb
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Use.Api\obj\Debug\netcoreapp2.0\Zhengwei.Use.Api.dll
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Use.Api\obj\Debug\netcoreapp2.0\Zhengwei.Use.Api.pdb
+F:\netcore\Zhengwei.Use.Api\Zhengwei.Use.Api\obj\Debug\netcoreapp2.0\Zhengwei.Use.Api.csprojAssemblyReference.cache

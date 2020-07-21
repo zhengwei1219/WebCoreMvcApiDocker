@@ -1,0 +1,11 @@
+From microsoft/aspnetcore-build:2.0-nanoserver-1803 AS build
+WORKDIR /code
+COPY ["Zhengwei.Use.Api/Zhengwei.Use.Api.csproj", "Zhengwei.Use.Api/"]
+RUN dotnet restore 
+COPY . .
+RUN dotnet pulbic -c Release -o /app
+
+From microsoft/aspnetcore
+WORKDIR /app
+COPY --from=build /code/out . ./
+ENTRYPOINT ["dotnet", "Zhengwei.Use.Api.dll"]

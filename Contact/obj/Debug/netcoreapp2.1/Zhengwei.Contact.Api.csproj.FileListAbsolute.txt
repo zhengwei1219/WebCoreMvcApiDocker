@@ -1,0 +1,16 @@
+F:\netcore\Zhengwei.Use.Api\Contact\bin\Debug\netcoreapp2.1\Zhengwei.Contact.Api.deps.json
+F:\netcore\Zhengwei.Use.Api\Contact\bin\Debug\netcoreapp2.1\Zhengwei.Contact.Api.runtimeconfig.json
+F:\netcore\Zhengwei.Use.Api\Contact\bin\Debug\netcoreapp2.1\Zhengwei.Contact.Api.runtimeconfig.dev.json
+F:\netcore\Zhengwei.Use.Api\Contact\bin\Debug\netcoreapp2.1\Zhengwei.Contact.Api.dll
+F:\netcore\Zhengwei.Use.Api\Contact\bin\Debug\netcoreapp2.1\Zhengwei.Contact.Api.pdb
+F:\netcore\Zhengwei.Use.Api\Contact\obj\Debug\netcoreapp2.1\Zhengwei.Contact.Api.csprojAssemblyReference.cache
+F:\netcore\Zhengwei.Use.Api\Contact\obj\Debug\netcoreapp2.1\Zhengwei.Contact.Api.csproj.CoreCompileInputs.cache
+F:\netcore\Zhengwei.Use.Api\Contact\obj\Debug\netcoreapp2.1\Zhengwei.Contact.Api.AssemblyInfoInputs.cache
+F:\netcore\Zhengwei.Use.Api\Contact\obj\Debug\netcoreapp2.1\Zhengwei.Contact.Api.AssemblyInfo.cs
+F:\netcore\Zhengwei.Use.Api\Contact\obj\Debug\netcoreapp2.1\Zhengwei.Contact.Api.dll
+F:\netcore\Zhengwei.Use.Api\Contact\obj\Debug\netcoreapp2.1\Zhengwei.Contact.Api.pdb
+F:\netcore\Zhengwei.Use.Api\Contact\obj\Debug\netcoreapp2.1\Zhengwei.Contact.Api.Properties.Resources.resources
+F:\netcore\Zhengwei.Use.Api\Contact\obj\Debug\netcoreapp2.1\Zhengwei.Contact.Api.csproj.GenerateResource.cache
+F:\netcore\Zhengwei.Use.Api\Contact\bin\Debug\netcoreapp2.1\Resilience.dll
+F:\netcore\Zhengwei.Use.Api\Contact\bin\Debug\netcoreapp2.1\Resilience.pdb
+F:\netcore\Zhengwei.Use.Api\Contact\obj\Debug\netcoreapp2.1\Zhengwei.Contact.Api.csproj.CopyComplete

@@ -1,0 +1,148 @@
+{
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost"
+  },
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/users",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "33545"
+        }
+      ],
+      "UpstreamPathTemplate": "/users",
+      "UpstreamHttpMethod": [ "Get", "Patch" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "zhengwei",
+        "AllowedScopes": [ "user_api" ]
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/users/baseinfo/{userId}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "33545"
+        }
+      ],
+      "UpstreamPathTemplate": "/users/baseinfo/{userId}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "zhengwei",
+        "AllowedScopes": [ "user_api" ]
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/connect/{catchAll}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "1110"
+        }
+      ],
+      "UpstreamPathTemplate": "/connect/{catchAll}",
+      "UpstreamHttpMethod": [ "Post" ]
+
+    },
+    {
+      "DownstreamPathTemplate": "/api/projects",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "1110"
+        }
+      ],
+      "UpstreamPathTemplate": "/projects",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "zhengwei",
+        "AllowedScopes": [ "project_api" ]
+      }
+
+    },
+    {
+      "DownstreamPathTemplate": "/api/contacts",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "59511"
+        }
+      ],
+      "UpstreamPathTemplate": "/contacts",
+      "UpstreamHttpMethod": [ "Get" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "zhengwei",
+        "AllowedScopes": [ "contact_api" ]
+      }
+
+    },
+    {
+      "DownstreamPathTemplate": "/api/contacts/tag",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "59511"
+        }
+      ],
+      "UpstreamPathTemplate": "/contacts/tags",
+      "UpstreamHttpMethod": [ "Put" ]
+
+    },
+    {
+      "DownstreamPathTemplate": "/api/apply-request/{catchAll}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "59511"
+        }
+      ],
+      "UpstreamPathTemplate": "/contacts/apply-request/{catchAll}",
+      "UpstreamHttpMethod": [ "Get", "Put", "Post" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "zhengwei",
+        "AllowedScopes": [ "contact_api" ]
+      }
+
+    },
+    {
+      "DownstreamPathTemplate": "/api/apply-request",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "59511"
+        }
+      ],
+      "UpstreamPathTemplate": "/contacts/apply-request",
+      "UpstreamHttpMethod": [ "Get" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "zhengwei",
+        "AllowedScopes": [ "contact_api" ]
+      }
+
+    },
+    {
+      "DownstreamPathTemplate": "/.well-known/{catchAll}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "1110"
+        }
+      ],
+      "UpstreamPathTemplate": "/.well-known/{catchAll}",
+      "UpstreamHttpMethod": [ "Get" ]
+
+    }
+
+  ]
+
+}
